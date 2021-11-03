@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I am Matan-Ben
 
-<!--
-**matannagar/matannagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👷 I'm a Software Developer in a student position at HiLo
+- 🎓 B.Sc Student in Computer Science and Mathematics 3rd year
+- 🔭 As on right now I am working on a Text-Summarization Tool and UI :)
+- 🌱 Currently focusing on Deep-Learning...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I wrote a book and into gymnastics :grin:
+
+<img align="left" alt="Matan-Ben Nagar Github Status" src="https://github-readme-stats.vercel.app/api?username=matannagar&show_icons=true&theme=onedark">
+<br><br>
+<br>
+<br><br>
+<br><br><br><br>
+<img align="left" alt="Matan-Ben Nagar Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matannagar&layout=compact&theme=onedark">
+
+
+📫 How to reach me: 
+<br><br>
+ <a href="www.linkedin.com/in/matan-ben-nagar/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <br>
+ matannagar@gmail.com
