@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Matan-Ben
 
-- 👷 I'm a Software Developer in a student position at HiLo
+- 👷 I'm a Fullstack Developer in a student position at Scorelate!
 - 🎓 B.Sc Student in Computer Science and Mathematics 3rd year
 - 🔭 As on right now I am working on a Text-Summarization Tool and UI :)
 - 🌱 Currently focusing on Deep-Learning...
