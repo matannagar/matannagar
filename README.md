@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Matan-Ben
 
-- 👷 I'm a Fullstack Developer in a student position at Scorelate!
-- 🎓 B.Sc Student in Computer Science and Mathematics 3rd year
+- 👷 I'm a Fullstack Developer at CoderZ!
+- 🎓 B.Sc Computer Science and Mathematics Graduate !
 - 🔭 As on right now I am working on a Text-Summarization Tool and UI :)
-- 🌱 Currently focusing on Deep-Learning...
+- 🌱 Currently focusing on Web-Application 
 
 
 - ⚡ Fun fact: I wrote a book and into gymnastics :grin:
