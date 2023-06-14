@@ -2,7 +2,6 @@
 
 - 👷 I'm a Fullstack Developer at CoderZ!
 - 🎓 B.Sc Computer Science and Mathematics Graduate !
-- 🔭 As on right now I am working on a Text-Summarization Tool and UI :)
 - 🌱 Currently focusing on Web-Application 
 
 
